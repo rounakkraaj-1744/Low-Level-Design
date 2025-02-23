@@ -29,7 +29,6 @@
 │ ├── Product.test.ts
 │ ├── OrderService.test.ts
 │ ├── Payment.test.ts
-├── .gitignore
 ├── package.json
 ├── tsconfig.json
 ```
